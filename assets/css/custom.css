@@ -1,0 +1,10 @@
+.sidebar {
+  max-width: 260px;
+}
+
+.author__desktop,
+.author__desktop a {
+  white-space: normal !important;
+  word-break: break-word;
+  line-height: 1.35;
+}
