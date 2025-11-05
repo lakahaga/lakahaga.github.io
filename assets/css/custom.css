@@ -8,3 +8,39 @@
   word-break: break-word;
   line-height: 1.35;
 }
+
+/* Vertical Timeline Style */
+.timeline {
+  position: relative;
+  margin: 2em 0;
+  padding-left: 1.5em;
+  border-left: 2px solid var(--global-border-color);
+}
+
+.timeline-item {
+  margin: 1.5em 0;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -0.55em;
+  top: 0.3em;
+  width: 10px;
+  height: 10px;
+  background: var(--global-base-color);
+  border-radius: 50%;
+}
+
+.timeline-date {
+  font-weight: bold;
+  margin-bottom: 0.25em;
+  display: block;
+  /* <-- important: ensures date goes to its own line */
+}
+
+.timeline-content {
+  margin-left: 0.25em;
+  line-height: 1.45;
+}
