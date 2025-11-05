@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher investigating fairness and robustness in large multimodal systems. My primary interests are:
+I am a researcher focused on building fair and efficient AI systems. My work centers on understanding and mitigating biases in large language and multimodal models, particularly how biases emerge during model compression and distillation.
 
-- Lightweight tuning and adaptation strategies that enable efficient bias mitigation in LLMs and LVLMs.
-- Understanding how biases emerge and amplify during model compression and distillation and designing targeted mitigation strategies.
+During my Master's at Sogang University, I developed clinical speech models for dysarthric speech assessment and expressive text-to-speech systems. This experience highlighted how critical fairness and reliability are in AI systems that directly impact people's lives.
 
-During my M.S. (Sogang University) I developed dysarthric speech augmentation and expressive TTS systems, and worked on severity classification and pause-detection pipelines — experiences that shaped my focus on equitable and reliable AI systems in sensitive applications. Current projects include knowledge-grounded evaluation frameworks for bias assessment in text-to-image and vision-language models, and a self-evolving bias detection-correction-explain platform.  [oai_citation:2‡yerinchoi_CV-2.pdf](sediment://file_00000000d62471fa895088d32df68573)
+Currently at the Korea Institute of Science and Technology (KIST), I develop evaluation frameworks for bias assessment in text-to-image and vision-language models. My research involves creating human preference datasets that capture diverse perspectives on fairness and designing lightweight adaptation strategies that preserve equity under resource constraints.
+
+I am particularly interested in the tension between model efficiency and fairness—ensuring AI systems remain equitable as we make them more accessible through compression and optimization.
+
+I am currently seeking Ph.D. opportunities to develop principled evaluation and mitigation strategies for fair multimodal AI systems.
