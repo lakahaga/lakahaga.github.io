@@ -2,9 +2,9 @@
 title: "DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer"
 collection: publications
 category: conferences
-permalink: /publication/2023-dccomix-tts
+permalink: /publication/2023-08-17-dccomix-tts
 excerpt: 'a discrete-code based TTS architecture with mixer for style transfer'
-date: 2023-08
+date: 2023-08-17
 venue: "Interspeech 2023"
 paperurl: "https://www.isca-archive.org/interspeech_2023/choi23f_interspeech.pdf"
 citation: ""
