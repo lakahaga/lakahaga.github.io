@@ -24,7 +24,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/yerinchoi_CV-2.pdf
+    new_tab: true
     
   # - title: "CV"
   #   url: /cv-json/
