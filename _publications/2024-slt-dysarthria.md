@@ -1,10 +1,13 @@
 ---
 title: "Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech"
-authors: "Y. Choi, J. Lee, M.-W. Koo"
+collection: publications
+category: conferences
+permalink: /publication/2024-slt-dysarthria
+excerpt: 'automatic detection of inappropriate pauses in dysarthric speech using large-scale ASR systems'
+date: 2024-12
 venue: "IEEE Spoken Language Technology Workshop (SLT) 2024"
-year: 2024
-type: "conference"
-url: "https://ieeexplore.ieee.org/document/10447681"
+paperurl: "https://ieeexplore.ieee.org/document/10447681"
+citation: ""
 ---
 
-First co-author. Presented approaches for ASR-based feature extraction to improve severity classification in dysarthric speech.
+First Co-author. Poster presentation at SLT 2024.
