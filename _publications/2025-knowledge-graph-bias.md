@@ -1,10 +1,13 @@
 ---
 title: "Knowledge Graphical Representation and Evaluation of Social Perception of Bias in Text-to-Image Models"
-authors: "Y. Choi et al."
+collection: publications
+category: conferences
+permalink: /publication/2025-knowledge-graph-bias
+excerpt: 'knowledge graph-based evaluation on model bias behavior'
+date: 2025-11
 venue: "Workshop on LLMs and KRR for Trustworthy AI @ KR 2025"
-year: 2025
-type: "workshop"
-url: ""
+paperurl: "https://ieeexplore.ieee.org/document/10447681"
+citation: ""
 ---
 
-First author oral presentation on representing social perception of bias in text-to-image models and evaluating social perception using knowledge-graph based methods.  [oai_citation:3‡yerinchoi_CV-2.pdf](sediment://file_00000000d62471fa895088d32df68573)
+First author. Oral Presentation
