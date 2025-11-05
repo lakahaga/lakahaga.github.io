@@ -3,11 +3,10 @@ title: "Inappropriate Pause Detection in Dysarthric Speech Using Large-Scale Spe
 collection: publications
 category: conferences
 permalink: /publication/2024-icassp-pause-detection
-excerpt: 'automatic detection of inappropriate pauses in dysarthric speech using large-scale ASR systems'
+excerpt: 'Yerin Choi, Jeehyun Lee, Tae-Jin Song, Myoung-Wan Koo'
 date: 2024-04-17
 venue: "ICASSP 2024"
-paperurl: "https://ieeexplore.ieee.org/document/10447681"
-citation: ""
+link: "https://ieeexplore.ieee.org/document/10447681"
 ---
 
 First Co-author. Poster presentation at ICASSP 2024.
