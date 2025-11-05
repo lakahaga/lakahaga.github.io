@@ -3,7 +3,7 @@ title: "Knowledge Graphical Representation and Evaluation of Social Perception o
 collection: publications
 category: conferences
 permalink: /publications/2025-knowledge-graph-bias
-excerpt: 'knowledge graph-based evaluation on model bias behavior'
+excerpt: 'Yerin Choi, Seungyeon Ji, Jiwon Kim, Hong Kyu Kim, Kyungjoon Oh, Mi Lim Cheon, Caren Han, Sangwook Yi, Kyungreem Han'
 date: 2025-11-13
 venue: "Workshop on LLMs and KRR for Trustworthy AI @ KR 2025"
 link: "https://openreview.net/pdf?id=9jla4qgmTP"
