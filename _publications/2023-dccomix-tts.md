@@ -3,10 +3,9 @@ title: "DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborat
 collection: publications
 category: conferences
 permalink: /publication/2023-dccomix-tts
-date: 2023-08-
-authors: "Y. Choi, M.-W. Koo"
+excerpt: 'a discrete-code based TTS architecture with mixer for style transfer'
+date: 2023-08
 venue: "Interspeech 2023"
-type: "conference"
 paperurl: "https://www.isca-archive.org/interspeech_2023/choi23f_interspeech.pdf"
 citation: ""
 ---
