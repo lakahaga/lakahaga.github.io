@@ -3,11 +3,10 @@ title: "Speech Recognition-based Feature Extraction for Enhanced Automatic Sever
 collection: publications
 category: conferences
 permalink: /publication/2024-slt-dysarthria
-excerpt: 'automatic detection of inappropriate pauses in dysarthric speech using large-scale ASR systems'
+excerpt: 'Yerin Choi, Jeehyun Lee, Myoung-Wan Koo'
 date: 2024-12-04
 venue: "IEEE Spoken Language Technology Workshop (SLT) 2024"
-paperurl: "https://ieeexplore.ieee.org/document/10447681"
-citation: ""
+link: "https://ieeexplore.ieee.org/document/10447681"
 ---
 
 First Co-author. Poster presentation at SLT 2024.
