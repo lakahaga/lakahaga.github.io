@@ -27,7 +27,6 @@ I am currently seeking Ph.D. opportunities to develop principled evaluation and 
     <div class="timeline-content">
       <b>Research Intern, Laboratory of Computational Neurophysics (LCNP)</b><br>
       Korea Institute of Science and Technology (KIST), Seoul, South Korea<br>
-      Bias evaluation & mitigation in multimodal generative models; constructing human preference fairness datasets.
     </div>
   </div>
 
@@ -36,7 +35,6 @@ I am currently seeking Ph.D. opportunities to develop principled evaluation and 
     <div class="timeline-content">
       <b>Research Intern, Voice AI Team</b><br>
       NAVER Cloud, Seongnam, South Korea<br>
-      Expressive TTS using discrete codes + mixer; improved emotional naturalness and reduced identity leakage.
     </div>
   </div>
 
@@ -51,7 +49,7 @@ I am currently seeking Ph.D. opportunities to develop principled evaluation and 
   <div class="timeline-item">
     <div class="timeline-date">Mar 2018 – Feb 2022</div>
     <div class="timeline-content">
-      <b>B.S., Computer Science & Engineering (Double Major: Economics)</b><br>
+      <b>B.S., Computer Science & Engineering, Bachelor of Economics)</b><br>
       Sogang University.
     </div>
   </div>
