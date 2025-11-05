@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yerin Choi"
+title                    : "YC"
 title_separator          : "-"
 name                     : &name "Yerin Choi"
 description              : &description "Yerin Choi's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : 
   location         : "Seoul, South Korea"
-  employer         : "Korea Institute of Science and Technology"
+  employer         : "KIST"
   uri              : # URL
   email            : "eriny77c@gmail.com" 
 
