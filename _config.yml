@@ -28,7 +28,8 @@ author:
   pronouns         : "she/her"  
   bio              : 
   location         : "Seoul, South Korea"
-  employer         : "KIST"
+  employer: "Korea Institute of Science and Technology (KIST)"
+  employer_url: "https://www.kist.re.kr/eng/index.do"
   uri              : # URL
   email            : "eriny77c@gmail.com" 
 
