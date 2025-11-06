@@ -96,3 +96,28 @@ width: 12px;
 height: 12px;
 }
 }
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.gallery-item {
+  position: relative;
+  width: 100%;
+  /* 원하는 카드 비율 → 4:3 (전시용 사진에 가장 안정적) */
+  padding-top: 75%;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.gallery-item img {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   /* 사진 비율 달라도 깔끔하게 crop */
+  object-position: center;
+  display: block;
+}
