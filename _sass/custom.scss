@@ -9,38 +9,90 @@
   line-height: 1.35;
 }
 
-/* Vertical Timeline Style */
+/* Enhanced Vertical Timeline Style */
 .timeline {
-  position: relative;
-  margin: 2em 0;
-  padding-left: 1.9em;
-  border-left: 2px solid var(--global-border-color);
+position: relative;
+margin: 3em 0;
+padding-left: 2.5em;
+border-left: 3px solid #e0e0e0;
 }
 
 .timeline-item {
-  margin: 1.5em 0;
-  position: relative;
+margin: 2.5em 0;
+position: relative;
+padding: 1.2em 1.5em;
+background: #f9f9f9;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+transition: all 0.3s ease;
+}
+
+.timeline-item:hover {
+transform: translateX(5px);
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+background: #ffffff;
 }
 
 .timeline-item::before {
-  content: "";
-  position: absolute;
-  left: -0.75em;
-  top: 0.3em;
-  width: 10px;
-  height: 10px;
-  background: var(--global-base-color);
-  border-radius: 50%;
+content: “”;
+position: absolute;
+left: -2.8em;
+top: 1.5em;
+width: 14px;
+height: 14px;
+background: #4a90e2;
+border: 3px solid #ffffff;
+border-radius: 50%;
+box-shadow: 0 0 0 3px #e0e0e0;
+transition: all 0.3s ease;
+}
+
+.timeline-item:hover::before {
+background: #2e73c7;
+transform: scale(1.2);
+box-shadow: 0 0 0 3px #4a90e2;
 }
 
 .timeline-date {
-  font-weight: bold;
-  margin-bottom: 0.25em;
-  display: block;
-  /* <-- important: ensures date goes to its own line */
+font-weight: 700;
+font-size: 0.95em;
+color: #4a90e2;
+margin-bottom: 0.5em;
+display: block;
+letter-spacing: 0.3px;
 }
 
 .timeline-content {
-  margin-left: 0.25em;
-  line-height: 1.45;
+margin-left: 0;
+line-height: 1.6;
+color: #333;
+}
+
+.timeline-content ul {
+margin: 0.5em 0 0 1.2em;
+padding: 0;
+}
+
+.timeline-content li {
+margin: 0.4em 0;
+color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+.timeline {
+padding-left: 1.8em;
+border-left-width: 2px;
+}
+
+.timeline-item {
+padding: 1em;
+margin: 1.5em 0;
+}
+
+.timeline-item::before {
+left: -2.3em;
+width: 12px;
+height: 12px;
+}
 }
