@@ -7,6 +7,9 @@ excerpt: 'Yerin Choi, Jeehyun Lee, Myoung-Wan Koo'
 date: 2024-12-04
 venue: "IEEE Spoken Language Technology Workshop (SLT) 2024"
 paperurl: "https://ieeexplore.ieee.org/document/10447681"
+poster: "/files/SLT2024_poster.png"
+share: false
+pagination: false  # 추가
 ---
 
-First Co-author. See the poster : [Poster](/files/SLT2024_poster.png)
+First Co-author. 
