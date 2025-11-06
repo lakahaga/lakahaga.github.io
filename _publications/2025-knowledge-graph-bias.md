@@ -6,7 +6,7 @@ permalink: /publications/2025-knowledge-graph-bias
 excerpt: 'Yerin Choi, Seungyeon Ji, Jiwon Kim, Hong Kyu Kim, Kyungjoon Oh, Mi Lim Cheon, Caren Han, Sangwook Yi, Kyungreem Han'
 date: 2025-11-13
 venue: "Workshop on LLMs and KRR for Trustworthy AI @ KR 2025"
-link: "https://openreview.net/pdf?id=9jla4qgmTP"
+paperurl: "https://openreview.net/pdf?id=9jla4qgmTP"
 ---
 
-First author. Oral Presentation
+First author. Oral Presentation. ([Slides](/files/kr2025_ppt.pdf))
