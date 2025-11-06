@@ -9,4 +9,4 @@ venue: "Interspeech 2023"
 paperurl: "https://www.isca-archive.org/interspeech_2023/choi23f_interspeech.pdf"
 --- 
 
-First author. See the poster : [Poster](/files/DCComix_Potser.pdf)
+First author. See the poster : [Poster](/files/DCComix_Poster.png)
