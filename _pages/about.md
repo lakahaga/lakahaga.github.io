@@ -17,7 +17,7 @@ I am particularly interested in the tension between model efficiency and fairnes
 
 I am currently seeking Ph.D. opportunities to develop principled evaluation and mitigation strategies for fair multimodal AI systems.
 
-### Research Journey
+## Research Journey
 
 
 <div class="timeline">
