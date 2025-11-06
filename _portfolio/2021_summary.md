@@ -7,5 +7,6 @@ share: false
 
 ### My Contribution
 - Fine-tuned a Korean T5 model on curated large-scale summarization datasets for educational reading support use cases
-- Developed a controllable summarization mechanism enabling summaries of varying length based on learner needs
+- Designed a length-controllable summarization pipeline utilizing two complementary summarizers (T5 + BART) with a sentence-splitting module ensuring coherent output across varying summary lengths.
 - Co-invented and filed the patent for the automatic sentence summarization system (KR 10-2021-0152256)
+
