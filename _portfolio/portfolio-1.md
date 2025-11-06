@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multimodal Bias Detection-Mitigation-Explanation"
+excerpt: "Apr 2025 - Ongoing, KIST"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Supported by Korean government, "Development of self-evolving AI bias detection-correction-explain platform based on international multidisciplinary governance""
+- Developing knowledge-grounded evaluation frameworks for bias assessment and mitigation in text-to-image and vision-language models.  
+- Designing human preference datasets to validate evaluation methods and ensure alignment with diverse perspectives on fairness.
