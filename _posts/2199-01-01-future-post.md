@@ -1,8 +1,8 @@
 ---
-title: 'Future Blog Post'
+title: 'Future Blog Postsss'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
-teaser: "my-post-teaser.jpg"
+teaser: "/images/apple-touch-icon-180x180.png"
 tags:
   - cool posts
   - category1
