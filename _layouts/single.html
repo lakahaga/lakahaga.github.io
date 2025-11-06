@@ -87,7 +87,28 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
-
+    {% if page.paperurl %}
+  <div class="page__paper-links" style="margin-top: 2em; margin-bottom: 2em;">
+    <a href="{{ page.paperurl }}" class="btn btn--primary btn--large" target="_blank">
+      <i class="fas fa-file-pdf"></i> View Paper
+    </a>
+    {% if page.code %}
+      <a href="{{ page.code }}" class="btn btn--info btn--large" target="_blank">
+        <i class="fab fa-github"></i> Code
+      </a>
+    {% endif %}
+    {% if page.slides %}
+      <a href="{{ page.slides }}" class="btn btn--success btn--large" target="_blank">
+        <i class="fas fa-file-powerpoint"></i> Slides
+      </a>
+    {% endif %}
+    {% if page.poster %}
+      <a href="{{ page.poster }}" class="btn btn--warning btn--large" target="_blank">
+        <i class="fas fa-image"></i> Poster
+      </a>
+    {% endif %}
+  </div>
+{% endif %}
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
