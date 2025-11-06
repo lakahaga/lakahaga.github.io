@@ -7,6 +7,9 @@ excerpt: 'Yerin Choi, Seungyeon Ji, Jiwon Kim, Hong Kyu Kim, Kyungjoon Oh, Mi Li
 date: 2025-11-13
 venue: "Workshop on LLMs and KRR for Trustworthy AI @ KR 2025"
 paperurl: "https://openreview.net/pdf?id=9jla4qgmTP"
+slides: "/files/kr2025_ppt.pdf"
+share: false
+pagination: false
 ---
 
-First author. Oral Presentation. ([Slides](/files/kr2025_ppt.pdf))
+First author. 
