@@ -7,6 +7,8 @@ excerpt: "Yerin Choi, Myoung-Wan Koo"
 date: 2023-08-17
 venue: "Interspeech 2023"
 paperurl: "https://www.isca-archive.org/interspeech_2023/choi23f_interspeech.pdf"
+poster: "/files/DCComix_Poster.png"
+code: "https://github.com/lakahaga/dc-comix-tts"
 --- 
 
-First author. See the poster : [Poster](/files/DCComix_Poster.png)
+First author. 
