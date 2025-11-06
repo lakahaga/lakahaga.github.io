@@ -7,6 +7,9 @@ excerpt: 'Yerin Choi, Jeehyun Lee, Tae-Jin Song, Myoung-Wan Koo'
 date: 2024-04-17
 venue: "ICASSP 2024"
 paperurl: "https://ieeexplore.ieee.org/document/10447681"
+poster: "ICASSP2024_poster.pdf"
+share: false
+pagination: false  # 추가
 ---
 
-First Co-author. See the poster : [Poster](/files/ICASSP2024_poster.pdf)
+First Co-author. 
