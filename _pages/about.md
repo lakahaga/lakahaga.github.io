@@ -49,7 +49,7 @@ I am currently seeking Ph.D. opportunities to develop principled evaluation and 
   <div class="timeline-item">
     <div class="timeline-date">Mar 2018 – Feb 2022</div>
     <div class="timeline-content">
-      <b>B.S., Computer Science & Engineering, Bachelor of Economics)</b><br>
+      <b>B.S. in Engineering (Computer Science and Engineering), and Bachelor of Economics</b><br>
       Sogang University.
     </div>
   </div>
