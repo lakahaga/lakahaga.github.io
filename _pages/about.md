@@ -38,13 +38,14 @@ I am currently seeking Ph.D. opportunities to develop principled evaluation and 
     </div>
   </div>
 
-  <div class="timeline-item">
-    <div class="timeline-date">Mar 2022 – Feb 2024</div>
-    <div class="timeline-content">
-      <b>M.S., Artificial Intelligence</b> — Sogang University (ISDS Lab)<br>
-      Thesis: Diffusion-based data augmentation for dysarthric speech severity classification.
-    </div>
+<div class="timeline-item">
+  <div class="timeline-date">Mar 2022 – Feb 2024</div>
+  <div class="timeline-content">
+    <b>M.S. in Artificial Intelligence</b> — Sogang University (<a href="https://isds.sogang.ac.kr/">ISDS Lab</a>)<br>
+    Supervisor: Prof. Myoung-Wan Koo<br>
+    Thesis: Diffusion-based Data Augmentation for Dysarthric Speech Severity Classification
   </div>
+</div>
 
   <div class="timeline-item">
     <div class="timeline-date">Mar 2018 – Feb 2022</div>
