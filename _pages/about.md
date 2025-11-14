@@ -23,7 +23,7 @@ I am currently seeking Ph.D. opportunities to develop principled evaluation and 
 <div class="timeline">
 
   <div class="timeline-item">
-    <div class="timeline-date">Jun 2024 – Present</div>
+    <div class="timeline-date">Dec 2024 – Present</div>
     <div class="timeline-content">
       <b>Research Intern, Laboratory of Computational Neurophysics (LCNP)</b><br>
       Korea Institute of Science and Technology (KIST), Seoul, South Korea<br>
@@ -31,7 +31,7 @@ I am currently seeking Ph.D. opportunities to develop principled evaluation and 
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">Jan 2023 – Feb 2024</div>
+    <div class="timeline-date">Nov 2023 – May 2024</div>
     <div class="timeline-content">
       <b>Research Intern, Voice AI Team</b><br>
       NAVER Cloud, Seongnam, South Korea<br>
