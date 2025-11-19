@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher focused on building fair and efficient AI systems. My work centers on understanding and mitigating biases in large language and multimodal models, particularly how biases emerge during model compression and distillation.
+I am a researcher working at the intersection of speech technologies and responsible AI systems.
 
-During my Master's at Sogang University, I developed clinical speech models for dysarthric speech assessment and expressive text-to-speech systems. This experience highlighted how critical fairness and reliability are in AI systems that directly impact people's lives.
+Currently, I am a Research Intern at the Korea Institute of Science and Technology (KIST) Brain Science Institute, where I contribute to two projects: (1) developing speech-language models for individuals with severe disabilities and neurodegenerative diseases, and (2) building evaluation frameworks for bias assessment and mitigation in large multimodal generative models.
 
-Currently at the Korea Institute of Science and Technology (KIST), I develop evaluation frameworks for bias assessment in text-to-image and vision-language models. My research involves creating human preference datasets that capture diverse perspectives on fairness and designing lightweight adaptation strategies that preserve equity under resource constraints.
+During my Master's at Sogang University (2022-2024), I worked on diverse speech technology projects. My primary research focused on clinical speech assessment for dysarthric speech, including severity classification and inappropriate pause detection, published at ICASSP 2024 and IEEE SLT 2024. I also developed expressive text-to-speech systems for children's reading support (Interspeech 2023) and worked on domain-specific dialogue models. Additionally, I completed a research internship at Naver Cloud (2023-2024), where I developed non-parallel style transfer TTS models for expressive speech synthesis.
 
-I am particularly interested in the tension between model efficiency and fairness—ensuring AI systems remain equitable as we make them more accessible through compression and optimization.
-
-I am currently seeking Ph.D. opportunities to develop principled evaluation and mitigation strategies for fair multimodal AI systems.
+I am currently seeking Ph.D. opportunities to continue building AI systems that are robust, fair, and deployable in sensitive real-world contexts. I am particularly interested in advancing clinical speech technologies for longitudinal monitoring of neurodegenerative diseases, while developing bias evaluation and mitigation frameworks that ensure these systems—and multimodal AI more broadly—serve diverse populations equitably. My ultimate goal is to develop technologies that meaningfully improve the quality of life for underserved populations.
 
 ## Research Journey
 
